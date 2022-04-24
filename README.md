@@ -1,6 +1,6 @@
 # parking_lot_python
 
-## __Author @abhiseknanda
+## __Author @abhiseknanda__
 
 
 This is a part of an ongoing project to add Low Level Design codes for Machine Coding rounds for Popular Companies.
